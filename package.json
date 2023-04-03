@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.3.2"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.5",
+    "@fullcalendar/list": "^6.1.5",
+    "@fullcalendar/timegrid": "^6.1.5",
+    "@fullcalendar/vue3": "^6.1.5",
+    "list": "^2.0.19"
+  }
+}
